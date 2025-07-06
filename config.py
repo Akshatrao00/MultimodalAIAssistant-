@@ -1,0 +1,2 @@
+# config.py
+openai_api_key ="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"
